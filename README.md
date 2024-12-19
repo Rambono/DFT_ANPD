@@ -17,7 +17,7 @@ DFT_ANPD outperformed existing methods, like iANP-EC, on NPACT, CancerHSP, and N
 
 ## Installation Guide
 
-1. Prerequisites
+ Prerequisites
 Ensure you have the following installed on your system:
 
 Python 3.7 or newer
