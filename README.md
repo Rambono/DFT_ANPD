@@ -14,3 +14,12 @@ Cancer remains the leading cause of death globally despite progress in research.
 ## Findings
 
 DFT_ANPD outperformed existing methods, like iANP-EC, on NPACT, CancerHSP, and NPASS datasets, showing superior accuracy and generalization. Actinomycin D and Clavariopsin C were identified, proving the model's robustness and clinical relevance.
+
+## Installation Guide
+
+1. Prerequisites
+Ensure you have the following installed on your system:
+
+Python 3.7 or newer
+pip (Python package installer)
+Conda (recommended for RDKit and environment management)
