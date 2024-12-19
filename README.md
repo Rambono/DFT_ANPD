@@ -40,14 +40,14 @@ cd DFT_ANPD
 ```
 ## Componnents
 
-* Generalization_data preprocess.py - preprocess Generalization Experiment
-* Comparison.py -  compare our model with previous model
-* First experiment -  first Experiment in Generalization 
-* second experiment -  second Experiment in Generalization 
+* Generalization_data preprocess.py - Preprocess Generalization Experiment
+* Comparison.py -  Compare our model with previous model
+* First experiment -  First Experiment in Generalization 
+* second experiment -  Second Experiment in Generalization 
 * experiment_one -  DFT_ANPD with 5 Fold Cross validation
 * experiment_two -  DFT_ANPD with independent test set
 * confusion_matrix_plot.py -  confusion_matrix plotting
-* Evaluation metrics plot.py -  evaluation metrics plotting
+* Evaluation metrics plot.py -  Evaluation metrics plotting
 * common and unique smiles - compare NPASS and NPACT and Cancer HSP data
 
   
