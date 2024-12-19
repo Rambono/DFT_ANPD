@@ -19,17 +19,17 @@ DFT_ANPD outperformed existing methods, like iANP-EC, on NPACT, CancerHSP, and N
 
 ### 1. Prerequisites
 Ensure you have the following installed on your system:
-• Python 3.7 or newer
-•pandas
-•numpy
-•rdkit
-•scikit-learn
-•tensorflow
-•keras
-•torch
-•matplotlib
-•seaborn 
-•pyswarm
+* Python 3.7 or newer
+*pandas
+*numpy
+*rdkit
+*scikit-learn
+*tensorflow
+*keras
+*torch
+*matplotlib
+*seaborn 
+*pyswarm
 
 ### 2. Clone the Repository
 
