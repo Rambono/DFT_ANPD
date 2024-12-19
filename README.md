@@ -19,9 +19,7 @@ DFT_ANPD outperformed existing methods, like iANP-EC, on NPACT, CancerHSP, and N
 
 ### 1. Prerequisites
 Ensure you have the following installed on your system:
-
 • Python 3.7 or newer
-• Conda (recommended for RDKit and environment management)
 •pandas
 •numpy
 •rdkit
@@ -29,14 +27,13 @@ Ensure you have the following installed on your system:
 •tensorflow
 •keras
 •torch
-•transformers
 •matplotlib
-•seaborn
+•seaborn 
 •pyswarm
 
 ### 2. Clone the Repository
 
-git clone 
-cd <your-repo-folder>
+git clone https://github.com/Rambono/DFT_ANPD.git
+cd DFT_ANPD
 
  
