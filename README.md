@@ -38,7 +38,7 @@ git clone https://github.com/Rambono/DFT_ANPD.git
 
 cd DFT_ANPD
 ```
-## Componnents
+## Components
 
 * Generalization_data preprocess.py - Preprocess Generalization Experiment
 * Comparison.py -  Compare our model with previous model
