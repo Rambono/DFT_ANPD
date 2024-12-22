@@ -48,6 +48,6 @@ cd DFT_ANPD
 * experiment_two -  DFT_ANPD with independent test set
 * confusion_matrix_plot.py -  confusion_matrix plotting
 * Evaluation metrics plot.py -  Evaluation metrics plotting
-* common and unique smiles - compare NPASS and NPACT and Cancer HSP data
+* common and unique smiles - compare NPASS with NPACT and Cancer HSP data
 
   
